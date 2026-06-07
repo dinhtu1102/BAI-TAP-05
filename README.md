@@ -1,5 +1,11 @@
 # BAI-TAP-05
+# Môn: Phát triển ứng dụng với mã nguồn mở-TEE0421
+# KHAI THÁC N8N ĐỂ TỰ ĐỘNG ĐĂNG BÀI LÊN WORDPRESS
+# Họ tên : Nguyễn Đình Tú 
+# MSSV: K225480106067
+# Lớp : K58KTP
 
+# BÀI LÀM 
 A.Lý thuyết
 
 1. Docker là gì?
